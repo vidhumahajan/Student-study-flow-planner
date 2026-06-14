@@ -41,6 +41,7 @@ Or use VS Code's **Live Server** extension for auto-reload.
 ---
 
 ## 🌐 Deploy the project on Vercel
+DEPLOY LINK :- https://student-study-flow-planner.vercel.app/
 Vercel will detect it as a static site and deploy instantly. ✅
 
 ---
